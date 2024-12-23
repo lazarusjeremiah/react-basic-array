@@ -1,0 +1,11 @@
+body {
+  background: black;
+  color: white;
+  font-family: Arial;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
